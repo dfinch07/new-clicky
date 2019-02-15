@@ -1,0 +1,80 @@
+[
+    {
+      "id": 0,
+      "name": "3j",
+      "image": "assets/images/3j.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 1,
+      "name": "AuntRachel",
+      "image": "assets/images/AuntRachel.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 2,
+      "name": "Carl",
+      "image": "assets/images/Carl.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 3,
+      "name": "Eddy",
+      "image": "assets/images/Eddy.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 4,
+      "name": "Estelle",
+      "image": "assets/images/Estelle.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 5,
+      "name": "Harriet",
+      "image": "assets/images/Harriet.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 6,
+      "name": "Judy",
+      "image": "assets/images/Judy.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 7,
+      "name": "Laura",
+      "image": "assets/images/Laura.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 8,
+      "name": "Myra",
+      "image": "assets/images/Myra.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 9,
+      "name": "richie",
+      "image": "assets/images/richie.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 10,
+      "name": "stefan",
+      "image": "assets/images/stefan.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 11,
+      "name": "urkel",
+      "image": "assets/images/urkel.jpg",
+      "isClicked": false
+    },
+    {
+        "id": 12,
+        "name": "Waldo",
+        "image": "assets/images/Waldo.jpg",
+        "isClicked": false
+      }
+  ]
